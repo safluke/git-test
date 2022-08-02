@@ -1,8 +1,10 @@
 Odin Github/Terminal tutorial
 
+#git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
 #code .
 #git status
 #git add .
 #git commit -m "Add hello_world.txt"
 #note: . opens everything, can replace with file name, i.e. git add README.md
 #git log
+#git push or git push origin main
